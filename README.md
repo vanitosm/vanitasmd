@@ -1,11 +1,11 @@
 
-# *vanitas bot Multi-Device*
+# *VANITAS Multi-Device*
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amiri&size=30&vCenter=true&lines=Hi+welcome+to+vanitas+bot)](https://git.io/typing-svg)
+  [![بوت للواتساب](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+VANITAS+WHATSAPP+BOT)](https://github.com/vanitosm/vanitasmd)
 </div>
 <div align="center">
-  <img border-radius: 15px src="https://imgur.com/a/kXpaSXk"https://imgur.com/a/kXpaSXk"https://imgur.com/a/kXpaSXk" width="450" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/D4CwwgN.jpeg" width="450" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/mohammed_Xf16"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -16,26 +16,26 @@
 # DEPLOYING ON HEROKU
   <div align="left">
    
-## `⨷ FORK REPO`
+## `⨷ عمل فورك ضروري إد كنت تريد تغيير الإعدادات`
 
 - To use This bot you need fork this first <br>
 
-[Click Here To Fork](https://github.com/vanitosm/vanitasmd/fork)
+[من هنا](https://github.com/vanitosm/vanitasmd/fork)
 
-## `⨷ SCAN QR`
+## `⨷ عليك سكان الكود أولا`
 
 <a href="https://bit.ly/Millie-QR"><img title="MILLIE - MD" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
 
-## `DEPLOY`
+## `إضغط هنا ولاكن إن  كنت تريد البوت بدون تغيير heroku `
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vanitosm/vanitas)
+[![هنا](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vanitosm/vanitas)
 
 
-### `⨷ DEPLOY`
+### `⨷ تنصيب على هيروكو`
   
   
 
-👉 <b>Copy this link and paste it on your browser Change vanitosm to your github username<b> <br><br>
+👉 <b>أنسخ هادا الرابط وغير إسم vanitosm  إلى  اليوزرنايم الخاص بك في جيت هاب <b> <br><br>
 ```
   https://heroku.com/deploy?template=https://github.com/vanitosm/vanitasmd
 ```
