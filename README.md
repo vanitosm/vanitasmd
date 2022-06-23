@@ -2,7 +2,7 @@
 # *vanitas bot Multi-Device*
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amiri&size=30&vCenter=true&lines=Hi+welcome+to+vanitas+bot)](https://git.io/typing-svg)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/D4CwwgN.jpeg" width="450" height="200"/>
