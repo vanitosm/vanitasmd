@@ -1,8 +1,8 @@
 
-# *LoRD Multi-Device*
+# *vanitas bot Multi-Device*
 <div align="center">
   
-  [![Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+VANITAS+WHATSAPP+BOT)](https://github.com/vanitosm/vanitasmd)
+  [![Whatsapp Bot]([https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+VANITAS+WHATSAPP+BOT](https://github.com/vanitosm/vanitasmd/blob/64683fd67fa88ff14136672f3ab7a912f1108bad/lib/bot.jpg))](https://github.com/vanitosm/vanitasmd)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/D4CwwgN.jpeg" width="450" height="200"/>
