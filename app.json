@@ -1,0 +1,13 @@
+{
+  "name": "VANITAS MD",
+  "logo": "https://i.imgur.com/D4CwwgN.jpeg",
+  "description": "WhatsApp MD Bot",
+  "repository": "https://github.com/VANITOSM/VANITASMD",
+  "keywords": ["bot","whatsapp","whatsapp-bot"],
+  "env": {
+ "SESSION_ID": {
+    "description": "The session ID you Recieved",
+    "required": true
+    }
+}
+}
